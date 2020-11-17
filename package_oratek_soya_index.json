@@ -5,7 +5,8 @@
       "websiteURL": "https://oratek.com",
       "email": "hello@oratek.com",
       "maintainer": "Oratek",
-      "platforms": [
+      "platforms":
+      [
         {
           "architecture": "avr",
           "name": "Oratek Soya Boards",
@@ -13,7 +14,7 @@
           "version": "1.0.0",
           "archiveFileName": "soya-main.zip",
           "size": "259347",
-          "checksum": "SHA-256:a8818c64a2cb879723529f5ee74f36169f3f9e70d80fe8071aaa8656546ef87b",
+          "checksum": "SHA-256:5f4f61715a559567f2db2e4a6fd13a05058a8f542a165d2a3be884890f135955",
           "url": "https://github.com/Sestre-oratek/soya/archive/main.zip",
           "boards": [
             {
@@ -26,7 +27,8 @@
               "name": "Soya G"
             }
           ],
-          "toolsDependencies": [
+          "toolsDependencies":
+          [
             {
               "name": "avr-gcc",
               "packager": "arduino",
