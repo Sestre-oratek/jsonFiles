@@ -25,7 +25,7 @@
             {
               "name": "Soya G"
             }
-          ]
+          ],
           "toolsDependencies": [
             {
               "name": "avr-gcc",
