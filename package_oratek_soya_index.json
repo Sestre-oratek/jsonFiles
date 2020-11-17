@@ -13,8 +13,8 @@
           "category": "Soya",
           "version": "1.0.0",
           "archiveFileName": "soya-1.0.0.zip",
-          "size": "227499",
-          "checksum": "SHA-256:51d7e66ce422ba75173c7b1df16cc8e92f834e88d4520da4c15aff3d99391bb5",
+          "size": "227471",
+          "checksum": "SHA-256:24e42674846e0056f39a9261f1bdbf6509ca65d55a1ff02653ee3ed65e4730d4",
           "url": "https://github.com/Sestre-oratek/soya/archive/1.0.0.zip",
           "boards": [
             {
