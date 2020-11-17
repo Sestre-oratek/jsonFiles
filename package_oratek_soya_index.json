@@ -12,10 +12,10 @@
           "name": "Oratek Soya Boards",
           "category": "Soya",
           "version": "1.0.0",
-          "archiveFileName": "soya-master.zip",
-          "size": "228793",
-          "checksum": "SHA-256:52bed0a16dde68d03adb02d68d57c96fe2cddcb7da3243fa80340eb8183a9d3b",
-          "url": "https://github.com/Sestre-oratek/soya/archive/master.zip",
+          "archiveFileName": "soya-1.0.0.zip",
+          "size": "227499",
+          "checksum": "SHA-256:51d7e66ce422ba75173c7b1df16cc8e92f834e88d4520da4c15aff3d99391bb5",
+          "url": "https://github.com/Sestre-oratek/soya/archive/1.0.0.zip",
           "boards": [
             {
               "name": "Soya L"
