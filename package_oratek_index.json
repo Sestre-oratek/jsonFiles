@@ -1,0 +1,91 @@
+{
+  "packages": [
+    {
+      "name": "oratek",
+      "websiteURL": "https://oratek.com",
+      "email": "hello@oratek.com",
+      "maintainer": "Oratek",
+      "platforms":
+      [
+        {
+          "name": "Oratek AVR Boards",
+          "architecture": "avr",
+          "category": "Oratek",
+          "version": "1.0.0",
+          "archiveFileName": "oratek-avr-1.0.0.zip",
+          "size": "227471",
+          "checksum": "SHA-256:24e42674846e0056f39a9261f1bdbf6509ca65d55a1ff02653ee3ed65e4730d4",
+          "url": "https://github.com/Sestre-oratek/board-avr/archive/1.0.0.zip",
+          "boards": [
+            {
+              "name": "Oratek Soya-L"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "name": "avr-gcc",
+              "packager": "arduino",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "name": "avrdude",
+              "packager": "arduino",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        },
+        {
+          "name": "Oratek SAMD Boards",
+          "architecture": "samd",
+          "version": "1.8.9",
+          "category": "Oratek",
+          "url": "https://github.com/Sestre-oratek/board-samd/archive/1.0.0.zip",
+          "archiveFileName": "oratek-samd-board-1.0.0.zip",
+          "checksum": "SHA-256:41c04740f7b61b561a7134a847678845e91219164f4d125951e13756f53a865b",
+          "size": "3059968",
+          "boards": [
+            {
+              "name": "Oratek Soya B"
+            },
+            {
+              "name": "Oratek Soya G"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0-arduino3"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
