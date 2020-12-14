@@ -42,8 +42,8 @@
           "category": "Oratek",
           "url": "https://github.com/Sestre-oratek/oratek-mbed-boards/archive/1.0.0.zip",
           "archiveFileName": "oratek-mbed-boards-1.0.0",
-          "checksum": "SHA-256:39d27e5f85ef84c4e272ab4d95af4bba5d5e5e6676e09e8b1c6f07307dc19315",
-          "size": "45970781",
+          "checksum": "SHA-256:5798f708861db5ab3201d11a38a98ca8b750a5bca3a408a5acd64ba282d4c381",
+          "size": "45970858",
           "boards": [
             {
               "name": "Oratek SOYA-B"
