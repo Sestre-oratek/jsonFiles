@@ -40,9 +40,9 @@
           "architecture": "mbed",
           "version": "1.0.0",
           "category": "Oratek",
-          "url": "https://oratek.ch",
-          "archiveFileName": "oratek-mbed-1.0.0.zip",
-          "checksum": "SHA-256:f6617b34b53af37dbc2e6805097cf961f2032dbfc3750a003ba1902d7469258b",
+          "url": "https://github.com/Sestre-oratek/oratek-mbed-boards/archive/1.0.0.zip",
+          "archiveFileName": "oratek-mbed-boards-1.0.0",
+          "checksum": "SHA-256:39d27e5f85ef84c4e272ab4d95af4bba5d5e5e6676e09e8b1c6f07307dc19315",
           "size": "93357731",
           "boards": [
             {
