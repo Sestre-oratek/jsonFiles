@@ -13,9 +13,9 @@
           "category": "Oratek",
           "version": "1.0.0",
           "archiveFileName": "oratek-avr-1.0.0.zip",
-          "size": "227471",
-          "checksum": "SHA-256:24e42674846e0056f39a9261f1bdbf6509ca65d55a1ff02653ee3ed65e4730d4",
-          "url": "https://github.com/Sestre-oratek/board-avr/archive/1.0.0.zip",
+          "url": "https://github.com/Sestre-oratek/oratek-avr-boards/archive/1.0.0.zip",
+          "size": "38418",
+          "checksum": "SHA-256:bdd4ce918d597a3ae8ca08f92a82ca0c1c058f11db18837013d0cace2f366b9f",
           "boards": [
             {
               "name": "Oratek SOYA-L"
@@ -43,7 +43,7 @@
           "url": "https://github.com/Sestre-oratek/oratek-mbed-boards/archive/1.0.0.zip",
           "archiveFileName": "oratek-mbed-boards-1.0.0",
           "checksum": "SHA-256:39d27e5f85ef84c4e272ab4d95af4bba5d5e5e6676e09e8b1c6f07307dc19315",
-          "size": "93357731",
+          "size": "45970781",
           "boards": [
             {
               "name": "Oratek SOYA-B"
