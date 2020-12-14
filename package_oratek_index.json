@@ -36,6 +36,43 @@
           ]
         },
         {
+          "name": "Oratek mbed-enabled Boards",
+          "architecture": "mbed",
+          "version": "1.0.0",
+          "category": "Oratek",
+          "url": "https://oratek.ch",
+          "archiveFileName": "oratek-mbed-1.0.0.zip",
+          "checksum": "SHA-256:f6617b34b53af37dbc2e6805097cf961f2032dbfc3750a003ba1902d7469258b",
+          "size": "93357731",
+          "boards": [
+            {
+              "name": "Oratek SOYA-B"
+            },
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino13"
+            },
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.9.1-arduino2"
+            },
+            {
+              "packager": "arduino",
+              "version": "0.9.0-arduino2",
+              "name": "dfu-util"
+            }
+          ]
+        },
+        {
           "name": "Oratek SAMD Boards",
           "architecture": "samd",
           "version": "1.8.9",
@@ -45,9 +82,6 @@
           "checksum": "SHA-256:41c04740f7b61b561a7134a847678845e91219164f4d125951e13756f53a865b",
           "size": "3059968",
           "boards": [
-            {
-              "name": "Oratek Soya B"
-            },
             {
               "name": "Oratek Soya G"
             }
@@ -89,3 +123,9 @@
     }
   ]
 }
+
+
+
+            {
+              "name": "Oratek Soya B"
+            },
