@@ -77,10 +77,10 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Oratek",
-          "url": "https://github.com/Sestre-oratek/board-samd/archive/1.0.0.zip",
+          "url": "https://github.com/Sestre-oratek/oratek-samd-boards/archive/1.0.0.zip",
           "archiveFileName": "oratek-samd-board-1.0.0.zip",
-          "checksum": "SHA-256:41c04740f7b61b561a7134a847678845e91219164f4d125951e13756f53a865b",
-          "size": "3059968",
+          "checksum": "SHA-256:288da9857d167e7ce9aed7264c15d200fd707049ad04e3d5550e7575a4448721",
+          "size": "1563591",
           "boards": [
             {
               "name": "Oratek SOYA-G"
