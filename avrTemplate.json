@@ -1,0 +1,28 @@
+{
+  "name": "Oratek AVR Boards",
+  "architecture": "avr",
+  "category": "Oratek",
+  "version": "",
+  "archiveFileName": "oratek-avr-1.0.0.zip",
+  "url": "https://github.com/Sestre-oratek/oratek-avr-boards/archive/1.0.0.zip",
+  "size": "",
+  "checksum": "",
+  "boards": [
+    {
+      "name": "Oratek SOYA-L"
+    }
+  ],
+  "toolsDependencies":
+  [
+    {
+      "name": "avr-gcc",
+      "packager": "arduino",
+      "version": "4.8.1-arduino5"
+    },
+    {
+      "name": "avrdude",
+      "packager": "arduino",
+      "version": "6.0.1-arduino5"
+    }
+  ]
+}
