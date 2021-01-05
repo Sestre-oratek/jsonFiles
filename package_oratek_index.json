@@ -32,6 +32,53 @@
               "version": "6.0.1-arduino5"
             }
           ]
+        },
+        {
+          "name": "Oratek SAMD Boards",
+          "architecture": "samd",
+          "category": "Oratek",
+          "version": "1.0.0",
+          "archiveFileName": "oratek-samd-boards-1.0.0.zip",
+          "url": "https://github.com/oratek-ch/oratek-samd-boards/archive/1.0.0.zip",
+          "size": "1565896",
+          "checksum": "SHA-256:a4c3c00bc7126a7dd2be5cacdc9a9414247f4a4c121f7c3b6fc5c751d615e814",
+          "boards": [
+            {
+              "name": "Oratek SOYA-G"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0-arduino3"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
+            }
+          ]
         }
       ]
     }
