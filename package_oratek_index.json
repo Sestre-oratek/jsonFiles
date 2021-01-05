@@ -79,6 +79,43 @@
               "version": "1.2.1"
             }
           ]
+        },
+        {
+          "name": "Oratek Mbed OS Boards",
+          "architecture": "mbed",
+          "category": "Oratek",
+          "version": "1.0.0",
+          "archiveFileName": "oratek-mbed-boards-1.0.0.zip",
+          "url": "https://github.com/oratek-ch/oratek-mbed-boards/archive/1.0.0.zip",
+          "size": "45968996",
+          "checksum": "SHA-256:d1f1e5a30bf4ff225236b9670a539c98148ca08b0df6f4ec130ba74f2e54f1b4",
+          "boards": [
+            {
+              "name": "Oratek SOYA-B"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino13"
+            },
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.9.1-arduino2"
+            },
+            {
+              "packager": "arduino",
+              "version": "0.9.0-arduino2",
+              "name": "dfu-util"
+            }
+          ]
         }
       ]
     }
